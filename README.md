@@ -4,6 +4,7 @@
 ---
 ## Ideias iniciais do projeto:
 - Familiarização com a sintaxe básica do PHP
+![](assets/code.png)
 - Entendimento dos Metódos GET E POST
 - Compreender mais afundo a comunicação do Front e o Back da aplicação.
 - Utilição de arrays para armazenamento de dados
