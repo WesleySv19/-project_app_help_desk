@@ -1,6 +1,6 @@
 # Projeto autenticação
 ![](assets/index.png)
-## Projeto feito com base em um na plataforma da Udemy para autenticação de perfis administrativos e de usuários.
+## Projeto feito com base em um curso na plataforma Udemy com o instrutor Jorge Sant Ana para autenticação de perfis administrativos e de usuários.
 ---
 ## Ideias iniciais do projeto:
 - Familiarização com a sintaxe básica do PHP
